@@ -36,7 +36,7 @@ iView admin是基于Vue.js，搭配使用[iView](https://www.iviewui.com) UI组�
 
 #### 目标
    作为一个博客项目，打算以两个月为期，第一步仍然以完善基本功能为主，做一个好看好用体验较好的后台和一个酷酷的博客页面。不过后台的页面iView-Admin只是作为参考，为了能更好的和Laravel融合，会慢慢改写掉。
- * [TODO LIST]()
+* [进度看板](https://github.com/ichabodphp/laraiview/projects/1)
 * [更新日志](https://github.com/ichabodphp/laraiview/releases)
 
 
@@ -51,4 +51,5 @@ iView admin是基于Vue.js，搭配使用[iView](https://www.iviewui.com) UI组�
 - [Vue](https://github.com/vuejs/vue)
 - [Webpack Docs](https://doc.webpack-china.org/concepts/)
 - [Laravel5.5 Docs](https://laravel.com/docs/5.5)
+- [Laravel5.4 中文文档](http://laravelacademy.org/laravel-docs-5_4)
 - [快速入门-使用 Laradock 搭建基于 Docker 的 PHP 开发环境](http://laravelacademy.org/post/7691.html)
