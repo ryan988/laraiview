@@ -34,7 +34,7 @@ iView admin是基于Vue.js，搭配使用[iView](https://www.iviewui.com) UI组�
 #### 初衷
    在市面上的确能找到很多博客项目，但是还是不太满意，当我看到iView-Admin的时候打算拿过来用一下。后端用Laravel5.5实现，现在博客的前台页面框架还没确定，但是基本上仍会用vuejs. 
 
-### 目标
+#### 目标
    作为一个博客项目，打算以两个月为期，第一步仍然以完善基本功能为主，做一个好看好用体验较好的后台和一个酷酷的博客页面。不过后台的页面iView-Admin只是作为参考，为了能更好的和Laravel融合，会慢慢改写掉。
  * [TODO LIST]()
 * [更新日志](https://github.com/ichabodphp/laraiview/releases)
@@ -44,6 +44,7 @@ iView admin是基于Vue.js，搭配使用[iView](https://www.iviewui.com) UI组�
 ## 文件结构
 ## 效果展示
 - 后台首页
+
 ![image](https://github.com/iview/iview-admin/raw/dev/github-gif/home.gif)
 ## Links
 - [iView](https://github.com/iview/iview)
